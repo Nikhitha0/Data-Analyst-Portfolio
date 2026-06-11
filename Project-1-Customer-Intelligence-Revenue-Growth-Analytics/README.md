@@ -2,13 +2,13 @@
 
 ## Project Overview
 
-## Dashboard Preview
-
-![Dashboard Overview](dashboard-overview.png)
-
 This project analyzes customer behavior, revenue trends, product performance, and business growth using Excel and SQL.
 
 The objective was to identify high-value customers, revenue drivers, sales trends, and growth opportunities through data analysis.
+
+## Dashboard Preview
+
+![Dashboard Overview](dashboard-overview.png)
 
 ## Tools Used
 
